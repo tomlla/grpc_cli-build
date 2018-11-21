@@ -2,5 +2,5 @@
 
 # grpc_cli-build
 
-This is just a Dockerfile for building grpc_cli.  
+Just a Dockerfile for building grpc_cli.  
 @see [github.com/grpc/grpc](https://github.com/grpc/grpc)
